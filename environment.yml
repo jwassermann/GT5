@@ -2,8 +2,9 @@ name: GT5
 channels:
   - conda-forge
 dependencies:
-  - python =3
-  - obspy >=1.2.0
+  - python 
+  - obspy 
+  - cartopy
   - basemap
   - numpy
   - matplotlib
